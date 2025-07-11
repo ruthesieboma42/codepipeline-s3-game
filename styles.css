@@ -1,6 +1,6 @@
 body {
-    font-family: 'Roboto', sans-serif; 
-    background-color: #2705BC; 
+    font-family: 'Product Sans', sans-serif; 
+    background-color: #000000; 
     color: #ffffff; 
     text-align: center;
     margin: 0;
@@ -11,7 +11,7 @@ body {
     width: auto;
     margin: 40px auto;
     padding: 30px;
-    background-color: #3c404d; 
+    background-color: #2705BC; 
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.25); 
     border-radius: 15px; 
 }
