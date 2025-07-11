@@ -69,7 +69,7 @@ document.addEventListener('DOMContentLoaded', () => {
         cardsChosenId = [];
 
         if (cardsWon.length === cardArray.length / 2) {
-            alert('Congratulations! You found them all!');
+            alert('Osheyy, baddest! No gift for you sha');
         }
     }
 
