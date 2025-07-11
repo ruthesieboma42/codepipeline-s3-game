@@ -1,6 +1,6 @@
 body {
     font-family: 'Roboto', sans-serif; 
-    background-color: #282c34; 
+    background-color: #2705BC; 
     color: #ffffff; 
     text-align: center;
     margin: 0;
@@ -38,7 +38,7 @@ h1 {
 .card {
     width: 211.8px;
     height: 166.2px;
-    background-color: #565c6f;
+    background-color: #6F4FFF;
     border-radius: 10px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
     cursor: pointer;
